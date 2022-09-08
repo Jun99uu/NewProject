@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-	printf("Engaged Learning\n");
+	printf("Engaged Learning\nEngaged Learning\n");
 	return 0;
 }
